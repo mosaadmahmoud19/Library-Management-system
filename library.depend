@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1644451594 source:e:\iti\c\library\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<Book.h>
+	<Casheir.h>
+	<Receipt.h>
+
+1644450955 e:\iti\c\library\include\casheir.h
+	"Book.h"
+	"Person.h"
+	"Receipt.h"
+	"Customer.h"
+	"file.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1644393231 e:\iti\c\library\include\book.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644449552 e:\iti\c\library\include\person.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644413301 e:\iti\c\library\include\file.h
+	<iostream>
+	<fstream>
+	"Book.h"
+
+1644452357 e:\iti\c\library\include\receipt.h
+	"Date.h"
+	"Book.h"
+	"Customer.h"
+
+1644452312 e:\iti\c\library\include\date.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644449954 e:\iti\c\library\include\customer.h
+	"Person.h"
+
+1644532799 source:c:\users\nadee\downloads\library\library\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<Book.h>
+	<Casheir.h>
+	<Receipt.h>
+
+1644393231 c:\users\nadee\downloads\library\library\include\book.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644532916 c:\users\nadee\downloads\library\library\include\casheir.h
+	"Book.h"
+	"Person.h"
+	"Receipt.h"
+	"Customer.h"
+	"file.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1644449552 c:\users\nadee\downloads\library\library\include\person.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644533538 c:\users\nadee\downloads\library\library\include\receipt.h
+	"Date.h"
+	"Book.h"
+	"Customer.h"
+
+1644452518 c:\users\nadee\downloads\library\library\include\date.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644449954 c:\users\nadee\downloads\library\library\include\customer.h
+	"Person.h"
+
+1644413301 c:\users\nadee\downloads\library\library\include\file.h
+	<iostream>
+	<fstream>
+	"Book.h"
+
+1644543768 source:c:\users\dell\desktop\library\library\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<Book.h>
+	<Casheir.h>
+	<Receipt.h>
+	"Admin.h"
+	<string.h>
+	<string>
+	<Book.h>
+	<Casheir.h>
+	<Receipt.h>
+
+1644393231 c:\users\dell\desktop\library\library\include\book.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644542929 c:\users\dell\desktop\library\library\include\casheir.h
+	"Book.h"
+	"Person.h"
+	"Receipt.h"
+	"Customer.h"
+	"file.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1644449552 c:\users\dell\desktop\library\library\include\person.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644543132 c:\users\dell\desktop\library\library\include\receipt.h
+	"Date.h"
+	"Book.h"
+	"Customer.h"
+
+1644452518 c:\users\dell\desktop\library\library\include\date.h
+	<iostream>
+	<string.h>
+	<string>
+
+1644543418 c:\users\dell\desktop\library\library\include\customer.h
+	"Person.h"
+
+1644539434 c:\users\dell\desktop\library\library\include\file.h
+	<iostream>
+	<fstream>
+	"Book.h"
+
+1644540007 c:\users\dell\desktop\library\library\include\admin.h
+	"Casheir.h"
+
