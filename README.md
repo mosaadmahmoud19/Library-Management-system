@@ -1,17 +1,2 @@
 # Library-Management-System
-Library Management System using C++ with OOP concepts.
-
-Admin in Library System can sign in using username and password, as Admin can create an account for Cashier.
-
-Cashier can sign in using Id and Password if Admin created an account for him to perform the operations in Library System.
-
-The Operations performed:
-- Add a book
-- Check availability of certain Book
-- Buy a Book
-- Display all Books
-- Display Books by Category
-- Display SoldOut Books
-- Search for a Book
-- Sort a Book
-As the Cashier can return to main menu to perform another operation.
+The Library Management System is a C++ console application that efficiently manages library operations. It allows administrators to create and manage cashier accounts, while cashiers can perform various tasks like adding, sorting, and buying books. The system provides a user-friendly interface and secure authentication. This project demonstrates proficiency in C++ programming, object-oriented design, file handling, and data structures. It showcases practical software development skills for efficient library management.
